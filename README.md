@@ -14,6 +14,8 @@
 
 📂 [Voir le projet](https://github.com/donneger-k/ministock)
 
+---
+
 ### 🌐 Ministockweb
 **Application web de gestion de stocks**
 
