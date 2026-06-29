@@ -24,8 +24,22 @@
 - 🎯 Objectif : Gérer des produits et mouvements de stock
 - 🛠️ Technologies : Laravel, Bootstrap
 - 🧠 Concepts : Architecture MVC, CRUD
-- 📌 Statut : Projet en cours
+- 📌 Statut : Projet terminé
 
 > Projet réalisé dans le cadre de mon apprentissage de Laravel afin de comprendre les bases du développement web backend et l’architecture MVC.
 
 📂 [Voir le projet](https://github.com/donneger-k/ministockweb)
+
+---
+
+### 🌐 Ticketflow
+**API web de gestion de cinéma**
+
+- 🎯 Objectif : Gérer les réservations d'un cinéma
+- 🛠️ Technologies : Symfony, Doctrine ORM, MySQL
+- 🧠 Concepts : API REST, architecture MVC, CRUD, authentification JWT
+- 📌 Statut : Projet terminé
+
+> Projet réalisé dans le cadre de mon apprentissage de Symfony afin de concevoir une API REST complète avec gestion des réservations, authentification et documentation d'API.
+
+📂 [Voir le projet](https://github.com/donneger-k/ticketflow)
